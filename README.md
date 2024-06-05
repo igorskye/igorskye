@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**igorskye/igorskye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é igor
 
-Here are some ideas to get you started:
+Estou estudando na  [Alura](alura.com.br)
+Estou me desenvolvendo no JavaScript
+utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo
+
+00001094323652sp@al.educacao.sp.gov.br
+
+@igorskye
+
+
+![](https://media.tenor.com/q_jj1u340XAAAAAM/snowball-bunny-carrot.gif0)
+
